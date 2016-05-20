@@ -1,0 +1,2 @@
+# node-soundbridge
+Soundbridge API
